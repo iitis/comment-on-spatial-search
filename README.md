@@ -1,6 +1,6 @@
 # Comment to *Spatial Search by Quantum Walk is Optimal for Almost all Graphs* (code)
 
-Date: * 28.09.2020*
+Date: *28.09.2020*
 
 Person responsible for data: *Adam Glos* (aglos [at] iitis.pl).
 
@@ -25,4 +25,4 @@ To reconstruct the results, please run files therein:
 julia single_case.jl
 julia plotter.jl
 ```
-The first one generates data which are stored in `data`. The latter command generates the plot.
+The first line generates data which are stored in `data`. The latter command generates the plot.
